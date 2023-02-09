@@ -109,7 +109,7 @@ while (True):
             if(char=="4"):
                 webbrowser.open('https://www.youtube.com/',new=1)
             if(char=="5"):
-                os.system("gnome-terminal")
+                os.system("gnome-terminal ")
             if(char=="6"):
                 os.system('gedit') 
             if(char=="7"):
