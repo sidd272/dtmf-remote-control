@@ -115,7 +115,7 @@ while (True):
             if(char=="7"):
                 os.system("gnome-calculator") 
             if(char=="8"):
-                os.system("gnome-calendar")
+                os.system("gnome-calendar  ")
             if(char=="9"):
                 os.system("shutdown") 
 audio.terminate()
