@@ -35,7 +35,7 @@ DTMF_TABLE = {
     'D': [1633, 941],
 } 
 
-FORMAT = pyaudio.paInt16 # format of sampling 16 bit int
+FORMAT = pyaudio.paInt16 
 CHANNELS = 1 # number of channels it means number of sample in every sampling
 RATE = 20000 # number of sample in 1 second sampling
 CHUNK = 1024 # length of every chunk
